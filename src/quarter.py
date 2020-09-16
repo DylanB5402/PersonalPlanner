@@ -29,4 +29,5 @@ class Quarter:
                 row = cv.collection.add_row()
                 row.Class = c.name
                 row.Date = date
+                row.Status = "Class"
 
